@@ -2,6 +2,9 @@ Title: Pelicanハンズオンに参加してブログを作った話
 Date: 2026-06-18
 Category: Diary
 Tags: pelican, blog, handson, github-pages
+Description: Pelicanという静的サイトジェネレーターを使って、GitHub Pagesで技術ブログを構築した手順と感想です。
+Keywords: pelican, github-pages, 静的サイトジェネレーター, ブログ, 技術ブログ
+
 
 ## きっかけ
 
