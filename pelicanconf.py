@@ -10,7 +10,7 @@ PATH = "content"
 TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = 'ja'
-THEME = 'themes/pelican-themes/mnmlist'
+THEME = 'themes/mnmlist'
 STATIC_PATHS = ['static']
 
 # Feed generation is usually not desired when developing
